@@ -119,7 +119,7 @@ Last update : March the 30th, 2017-->
                             <li><a href="https://twitter.com/SoleneAnathea"><img alt="Twitter" src="img-content/twitter.svg"></a></li>
                             <li><a href="https://www.linkedin.com/in/soleneanathea"><img alt="LinkedIn" src="img-content/linkedin.svg"></a></li>
                             <li><a href="https://github.com/Anathea"><img alt="GitHub" src="img-content/github.svg"></a></li>
-                            <li><a href="mailto:contact@solenefernaandezserrano.com" title="contact@solenefernandezserrano.com"><img alt="Mail" src="img-content/mail.svg"></a></li>
+                            <li><a href="mailto:contact@solenefernandezserrano.com" title="contact@solenefernandezserrano.com"><img alt="Mail" src="img-content/mail.svg"></a></li>
                         </ul>
                         <a href="legal.php"><p id="dissident">Mentions légales</p></a>
                     </div>
