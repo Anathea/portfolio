@@ -298,8 +298,8 @@ aside ul li p {
 }
 
 article {
-    margin: 5% 0;
-    padding: 5%;
+    margin: 10% 0;
+    padding: 0 5% 5%;
     border-left: #03A9F4 solid 1px;
     border-bottom: #03A9F4 solid 1px;
 }
@@ -420,7 +420,19 @@ footer .cluster .links li {
 
 @media only screen and (max-width: 760px) {
     h1 {
-        font-size: 6rem;
+        font-size: 2rem;
+    }
+    
+    header h2 {
+        font-size: 1.5rem;
+    }
+    
+    header h2 strong {
+        font-size: 1.5rem;
+    }
+    
+    header h3 {
+        font-size: 1.3rem;
     }
     
     h1, header h2, header h3 {
@@ -431,4 +443,13 @@ footer .cluster .links li {
         width: 90%;
     }
     
+    footer ul {
+        display: block;
+        margin: 0 auto;
+    }
+    
+    #dissident {
+        display: block;
+        text-align: center;
+    }
 }
