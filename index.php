@@ -20,7 +20,8 @@ Last update : March the 30th, 2017-->
               python, security, linux, ubuntu, debian, sécurité, securite, PHP,
               open source, open, source, google, lilo, espagnol, espanol, español,
               jquery, ajax, curiosité, curiosite, curiosity, passion, work, travail,
-              stage, stagiaire, intern, internship, professionnel, professionnelle">
+              stage, stagiaire, intern, internship, professionnel, professionnelle,
+              gitlab">
 
         <!--Styles-->
         <link rel="stylesheet" href="styles/style.min.css" type="text/css">
