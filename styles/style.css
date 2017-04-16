@@ -215,25 +215,29 @@ a:visited {
     top: 10px;
 }
 /* -----------------------------------------------------------------------------
---header
+--big-home
 ----------------------------------------------------------------------------- */
-header {
+.big-home {
     width: 100vw;
     height: 100vh;
     padding-top: 15%;
     background-color: #313233;
 }
 
-h1, header h2, header h3 {
+.big-home h1 {
+    font-size: 7rem;
+}
+
+h1, .big-home h2, .big-home h3 {
     color: #fcfdff;
     text-align: center;
 }
 
-header h2 {
+.big-home h2 {
     padding: 0.25%;
 }
 
-header h2 strong {
+.big-home h2 strong {
     font-family: 'Ubuntu Mono';
     font-size: 3rem;
     font-weight: normal;
@@ -423,19 +427,19 @@ footer .cluster .links li {
         font-size: 2rem;
     }
     
-    header h2 {
+    .big-home h2 {
         font-size: 1.5rem;
     }
     
-    header h2 strong {
+    .big-home h2 strong {
         font-size: 1.5rem;
     }
     
-    header h3 {
+    .big-home h3 {
         font-size: 1.3rem;
     }
     
-    h1, header h2, header h3 {
+    h1, .big-home h2, .big-home h3 {
         padding: 0 3%;
     }
     

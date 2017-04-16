@@ -24,7 +24,7 @@ Last update : March the 30th, 2017-->
               gitlab">
 
         <!--Styles-->
-        <link rel="stylesheet" href="styles/style.min.css" type="text/css">
+        <link rel="stylesheet" href="styles/style.css" type="text/css">
 
         <!--JS-->
         <script type="text/javascript" src="#"></script>
@@ -41,11 +41,11 @@ Last update : March the 30th, 2017-->
     </head>
     <body>
         <div class="main">
-            <header>
+            <div class="big-home">
                 <h1>Solène Fernandez Serrano</h1>
                 <h2>Je suis une<strong> développeuse web back-end</strong></h2>
                 <h3>Et je postule pour l'agence avignonaise Vertuoz !</h3>
-            </header>
+            </div>
             <section>
                 <aside>
                     <img alt="icon woman" src="img-content/me.png" class="icon">
