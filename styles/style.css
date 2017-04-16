@@ -239,7 +239,7 @@ h1, .big-home h2, .big-home h3 {
 
 .big-home h2 strong {
     font-family: 'Ubuntu Mono';
-    font-size: 3rem;
+    font-size: 3.1rem;
     font-weight: normal;
 }
 /* -----------------------------------------------------------------------------
@@ -423,7 +423,7 @@ footer .cluster .links li {
 }
 
 @media only screen and (max-width: 760px) {
-    h1 {
+    .big-home h1 {
         font-size: 2rem;
     }
     
@@ -432,14 +432,14 @@ footer .cluster .links li {
     }
     
     .big-home h2 strong {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
     
     .big-home h3 {
         font-size: 1.3rem;
     }
     
-    h1, .big-home h2, .big-home h3 {
+    .big-home h1, .big-home h2, .big-home h3 {
         padding: 0 3%;
     }
     
