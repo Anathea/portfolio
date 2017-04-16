@@ -24,7 +24,7 @@ Last update : March the 30th, 2017-->
               gitlab">
 
         <!--Styles-->
-        <link rel="stylesheet" href="styles/style.css" type="text/css">
+        <link rel="stylesheet" href="styles/style.min.css" type="text/css">
 
         <!--JS-->
         <script type="text/javascript" src="#"></script>
