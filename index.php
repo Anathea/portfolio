@@ -44,7 +44,7 @@ Last update : March the 30th, 2017-->
             <div class="big-home">
                 <h1>Solène Fernandez Serrano</h1>
                 <h2>Je suis une<strong> développeuse web back-end</strong></h2>
-                <h3>Et je postule pour l'agence avignonaise Vertuoz !</h3>
+<!--                <h3>Et je postule pour l'agence avignonaise Vertuoz !</h3>-->
             </div>
             <section>
                 <aside>
