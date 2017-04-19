@@ -21,7 +21,7 @@ Last update : March the 30th, 2017-->
               open source, open, source, google, lilo, espagnol, espanol, español,
               jquery, ajax, curiosité, curiosite, curiosity, passion, work, travail,
               stage, stagiaire, intern, internship, professionnel, professionnelle,
-              gitlab">
+              gitlab, opquast">
 
         <!--Styles-->
         <link rel="stylesheet" href="styles/style.min.css" type="text/css">
