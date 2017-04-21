@@ -8,8 +8,7 @@ Last update : March the 30th, 2017-->
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="author" content="Solène Fernandez Serrano">
-        <meta name="description" content="Solène Fernandez Serrano 's portfolio,
-              a web developpeur also known as Anathea">
+        <meta name="description" content="My name is Solène Fernandez Serrano and I am a professionnal web developer also known as Anathea. What you're about to see is my portfolio. Don't worry. It's won't bite (it shouldn't, at least) !">
         <meta name="keywords" content="Solène, Fernandez, Serrano, Solene, Portfolio,
               freelance, code, HTML, HTML5, CSS, CSS3, JS, Javascript, développeur web,
               développeuse web, web dev, developer, developer, programmer, stage,
