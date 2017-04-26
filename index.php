@@ -51,7 +51,7 @@ Last update : March the 30th, 2017-->
                     <h2>Fun facts !</h2>
                     <ul>
                         <li><h4>Solène Fernandez Serrano</h4><p> (oui, comme le jambon espagnol)</p></li>
-                        <li><h4>Étudiante à <a href="https://www.hetic.net/formations/bachelor-web" title="HÉTIC, Bachelor Web" class="hetic"><img alt="logo HETIC" src="img-content/logo_hetic.png"> HÉTIC</a></h4><p> (mais made in Avignon !)</p></li>
+                        <li><h4>Étudiante à <a href="https://www.hetic.net/formations/bachelor-web" title="HÉTIC, Bachelor Web (nouvel onglet)" target="_blank" class="hetic"><img alt="logo HETIC" src="img-content/logo_hetic.png"> HÉTIC</a></h4><p> (mais made in Avignon !)</p></li>
                         <li><h4>Bilangue en anglais et en espagnol</h4><p> (comme si mon nom n'était pas assez évident)</p></li>
                         <li><h4>Rigoureuse et créative</h4><p> (j'aime garder mon code propre)</p></li>
                         <li><h4>Grande voyageuse</h4><p> (je suis une fan inconditionnelle du Canada)</p></li>
@@ -59,7 +59,7 @@ Last update : March the 30th, 2017-->
                     </ul>
                 </aside>
                 <div class='projets'>
-                    <a href="https://github.com/Anathea"><img alt="Git" src="img-content/git.png" class="icon"></a>
+                    <a href="https://github.com/Anathea" title="Mon profil Github (nouvel onglet)" target="_blank"><img alt="Git" src="img-content/git.png" class="icon"></a>
                     <h2>Qu'est-ce que je sais faire ?</h2>
                     <article class="prothese">
                         <h3>P. M. Prothèse</h3>
@@ -115,10 +115,10 @@ Last update : March the 30th, 2017-->
                     <h2>Solène Fernandez Serrano</h2>
                     <div class="links">
                         <ul>
-                            <li><a href="https://www.facebook.com/people/Sol%C3%A8ne-Fernandez-Serrano/100011344283484"><img alt="Facebook" src="img-content/facebook.svg"></a></li>
-                            <li><a href="https://twitter.com/SoleneAnathea"><img alt="Twitter" src="img-content/twitter.svg"></a></li>
-                            <li><a href="https://www.linkedin.com/in/soleneanathea"><img alt="LinkedIn" src="img-content/linkedin.svg"></a></li>
-                            <li><a href="https://github.com/Anathea"><img alt="GitHub" src="img-content/github.svg"></a></li>
+                            <li><a href="https://www.facebook.com/people/Sol%C3%A8ne-Fernandez-Serrano/100011344283484" title="Mon profil Facebook (nouvel onglet)" target="_blank"><img alt="Facebook" src="img-content/facebook.svg"></a></li>
+                            <li><a href="https://twitter.com/SoleneAnathea" title="Mon profil Twitter (nouvel onglet)" target="_blank"><img alt="Twitter" src="img-content/twitter.svg"></a></li>
+                            <li><a href="https://www.linkedin.com/in/soleneanathea" title="Mon profil LinkedIn (nouvel onglet)" target="_blank"><img alt="LinkedIn" src="img-content/linkedin.svg"></a></li>
+                            <li><a href="https://github.com/Anathea" title="Mon profil Github (nouvel onglet)" target="_blank"><img alt="GitHub" src="img-content/github.svg"></a></li>
                             <li><a href="mailto:contact@solenefernandezserrano.com" title="contact@solenefernandezserrano.com"><img alt="Mail" src="img-content/mail.svg"></a></li>
                         </ul>
                         <a href="legal.php"><p id="dissident">Mentions légales</p></a>
