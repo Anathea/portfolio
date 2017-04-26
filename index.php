@@ -115,10 +115,10 @@ Last update : March the 30th, 2017-->
                     <h2>Solène Fernandez Serrano</h2>
                     <div class="links">
                         <ul>
-                            <li><a href="https://www.facebook.com/people/Sol%C3%A8ne-Fernandez-Serrano/100011344283484" title="Mon profil Facebook (nouvel onglet)" target="_blank"><img alt="Facebook" src="img-content/facebook.svg"></a></li>
-                            <li><a href="https://twitter.com/SoleneAnathea" title="Mon profil Twitter (nouvel onglet)" target="_blank"><img alt="Twitter" src="img-content/twitter.svg"></a></li>
-                            <li><a href="https://www.linkedin.com/in/soleneanathea" title="Mon profil LinkedIn (nouvel onglet)" target="_blank"><img alt="LinkedIn" src="img-content/linkedin.svg"></a></li>
-                            <li><a href="https://github.com/Anathea" title="Mon profil Github (nouvel onglet)" target="_blank"><img alt="GitHub" src="img-content/github.svg"></a></li>
+                            <li><a href="https://www.facebook.com/people/Sol%C3%A8ne-Fernandez-Serrano/100011344283484" title="Profil Facebook : Solène Fernandez Serrano (nouvel onglet)" target="_blank"><img alt="Facebook" src="img-content/facebook.svg"></a></li>
+                            <li><a href="https://twitter.com/SoleneAnathea" title="Profil Twitter : @SoleneAnathea (nouvel onglet)" target="_blank"><img alt="Twitter" src="img-content/twitter.svg"></a></li>
+                            <li><a href="https://www.linkedin.com/in/soleneanathea" title="Profil LinkedIn : Solène Fernandez Serrano (nouvel onglet)" target="_blank"><img alt="LinkedIn" src="img-content/linkedin.svg"></a></li>
+                            <li><a href="https://github.com/Anathea" title="Profil Github : Anathea (nouvel onglet)" target="_blank"><img alt="GitHub" src="img-content/github.svg"></a></li>
                             <li><a href="mailto:contact@solenefernandezserrano.com" title="contact@solenefernandezserrano.com"><img alt="Mail" src="img-content/mail.svg"></a></li>
                         </ul>
                         <a href="legal.php"><p id="dissident">Mentions légales</p></a>
